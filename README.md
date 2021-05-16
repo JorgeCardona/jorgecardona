@@ -2,10 +2,9 @@ Jorge Cardona
 ============
 
 -------------------  -------------------------------------------
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="80" height="80">](https://www.linkedin.com/in/jorgecardona1)
-[<img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" width="80" height="80">](https://www.hackerrank.com/jorgecardona)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="80" height="80"  target="_blank">](https://www.linkedin.com/in/jorgecardona1)
+[<img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" width="80" height="80"  target="_blank">](https://www.hackerrank.com/jorgecardona)
 -------------------     ----------------------------
-
 Education
 ---------
 

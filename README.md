@@ -23,7 +23,7 @@ Skills and Abilities
 
 **Data Science.**
 
-**Cloud.**
+**Devops & Cloud.**
 
 Programming Languages
 --------------------

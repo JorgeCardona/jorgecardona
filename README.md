@@ -9,7 +9,7 @@ Education
 ---------
 
 2017
-:   **MSc, Master in Computer Science and System Enginering**.
+:   **MSc, Master of Science in Computer Science and System Enginering**.
 
 2014
 :   **BSc, Computer Science and System Enginering**.

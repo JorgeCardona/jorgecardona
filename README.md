@@ -31,6 +31,8 @@ Programming Languages
 --------------------
 **First-lang:** Python.
 
-**Second-lang:** Java.
+**Second-lang:** SQL.
 
-**Third-lang:** Scala. 
+**Third-lang:** Java.
+
+**Fourth-Lang** Scala.

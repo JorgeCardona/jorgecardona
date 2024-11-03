@@ -7,6 +7,7 @@ Jorge Cardona
 <a href="https://www.hackerrank.com/jorgecardona" target="_blank"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" width="80" height="80"></a>
 <a href="https://hub.docker.com/u/jorgecardona" target="_blank"><img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="80" height="80"></a>
 <a href="https://pypi.org/user/jorgecardona/" target="_blank"><img src="https://raw.githubusercontent.com/JorgeCardona/PipPackageInstaller/main/imagenes/PyPI.png" width="80" height="80"></a>
+<a href="https://jorgecardona.github.io/portfolio/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80" height="80"></a>
 -------------------     ----------------------------
 Education
 ---------

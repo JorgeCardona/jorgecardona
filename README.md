@@ -35,8 +35,8 @@ Programming Languages
 
 **Second-lang:** SQL.
 
-**Third-lang:** Java.
+**Third-lang:**  Bash/Scripting.
 
-**Fourth-Lang** Scala.
+**Fourth-Lang** Java.
 
-**Fifth-lang** Bash/Scripting.
+**Fifth-lang** Scala.
